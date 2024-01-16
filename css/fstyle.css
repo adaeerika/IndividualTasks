@@ -1,0 +1,20 @@
+
+header {
+    background-image: url("../img/mountains.jpg");
+    padding: 40px;
+}
+h1 {
+    color: #fff;
+    font-size: 50px;
+}
+nav {
+    background-color: #ebebeb;
+}
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+.top-menu li {
+    display: inline-block;
+}
